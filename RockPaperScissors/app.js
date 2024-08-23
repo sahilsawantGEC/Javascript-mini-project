@@ -49,7 +49,7 @@ const playGame = (userChoice) => {
       //rock, scissors
       userWin = compChoice === "scissors" ? false : true;
     } else {
-      //rock, paper,,
+      //rock, paper
       userWin = compChoice === "rock" ? false : true;
     }
 
